@@ -1,0 +1,14 @@
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\bin\Debug\net7.0\CarRentalExercise.exe
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\bin\Debug\net7.0\CarRentalExercise.deps.json
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\bin\Debug\net7.0\CarRentalExercise.runtimeconfig.json
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\bin\Debug\net7.0\CarRentalExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\bin\Debug\net7.0\CarRentalExercise.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\CarRentalExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\CarRentalExercise.AssemblyInfoInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\CarRentalExercise.AssemblyInfo.cs
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\CarRentalExercise.csproj.CoreCompileInputs.cache
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\CarRentalExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\refint\CarRentalExercise.dll
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\CarRentalExercise.pdb
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\CarRentalExercise.genruntimeconfig.cache
+C:\Users\Windows 7\Desktop\Projetos C#\CarRentalExercise\CarRentalExercise\obj\Debug\net7.0\ref\CarRentalExercise.dll
